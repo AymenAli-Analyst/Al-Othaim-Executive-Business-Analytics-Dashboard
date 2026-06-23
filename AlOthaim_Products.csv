@@ -1,0 +1,801 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice,Source
+PRD0001,Grocery_Product_1,Grocery,95.84,132.76,Local
+PRD0002,Beverages_Product_2,Beverages,290.91,403.16,Imported
+PRD0003,Personal Care_Product_3,Personal Care,43.58,64.46,Local
+PRD0004,Bakery_Product_4,Bakery,5.12,7.24,Local
+PRD0005,Personal Care_Product_5,Personal Care,127.64,222.74,Local
+PRD0006,Beverages_Product_6,Beverages,60.63,100.64,Local
+PRD0007,Dairy_Product_7,Dairy,152.18,170.29,Imported
+PRD0008,Beverages_Product_8,Beverages,204.91,235.13,Local
+PRD0009,Home Care_Product_9,Home Care,218.3,385.47,Imported
+PRD0010,Bakery_Product_10,Bakery,243.07,321.15,Local
+PRD0011,Dairy_Product_11,Dairy,158.91,238.44,Imported
+PRD0012,Beverages_Product_12,Beverages,55.41,72.67,Local
+PRD0013,Beverages_Product_13,Beverages,178.04,234.18,Imported
+PRD0014,Grocery_Product_14,Grocery,213.48,379.58,Imported
+PRD0015,Beverages_Product_15,Beverages,30.93,51.6,Imported
+PRD0016,Electronics_Product_16,Electronics,18.22,29.26,Local
+PRD0017,Electronics_Product_17,Electronics,280.21,323.91,Imported
+PRD0018,Bakery_Product_18,Bakery,289.4,508.1,Imported
+PRD0019,Electronics_Product_19,Electronics,66.01,87.86,Local
+PRD0020,Electronics_Product_20,Electronics,72.05,123.69,Imported
+PRD0021,Dairy_Product_21,Dairy,188.91,281.8,Imported
+PRD0022,Electronics_Product_22,Electronics,286.54,390.26,Imported
+PRD0023,Grocery_Product_23,Grocery,232.06,412.93,Imported
+PRD0024,Personal Care_Product_24,Personal Care,143.27,230.91,Imported
+PRD0025,Beverages_Product_25,Beverages,256.95,427.56,Local
+PRD0026,Electronics_Product_26,Electronics,57.31,64.07,Imported
+PRD0027,Bakery_Product_27,Bakery,147.68,184.88,Local
+PRD0028,Home Care_Product_28,Home Care,212.53,337.71,Local
+PRD0029,Personal Care_Product_29,Personal Care,205.42,256.21,Imported
+PRD0030,Dairy_Product_30,Dairy,79.2,97.43,Local
+PRD0031,Dairy_Product_31,Dairy,73.54,89.33,Imported
+PRD0032,Personal Care_Product_32,Personal Care,268.94,382.47,Local
+PRD0033,Dairy_Product_33,Dairy,51.27,73.39,Local
+PRD0034,Electronics_Product_34,Electronics,280.05,339.31,Imported
+PRD0035,Home Care_Product_35,Home Care,43.93,52.53,Local
+PRD0036,Grocery_Product_36,Grocery,173.42,221.28,Local
+PRD0037,Grocery_Product_37,Grocery,128.14,157.9,Local
+PRD0038,Electronics_Product_38,Electronics,85.11,101.86,Imported
+PRD0039,Bakery_Product_39,Bakery,198.63,302.56,Local
+PRD0040,Electronics_Product_40,Electronics,4.71,7.4,Imported
+PRD0041,Personal Care_Product_41,Personal Care,97.68,113.2,Imported
+PRD0042,Home Care_Product_42,Home Care,103.94,179.58,Local
+PRD0043,Bakery_Product_43,Bakery,98.44,147.45,Local
+PRD0044,Beverages_Product_44,Beverages,166.23,208.58,Local
+PRD0045,Grocery_Product_45,Grocery,215.55,296.46,Imported
+PRD0046,Beverages_Product_46,Beverages,65.61,79.28,Imported
+PRD0047,Home Care_Product_47,Home Care,217.96,262.73,Local
+PRD0048,Bakery_Product_48,Bakery,135.92,193.93,Local
+PRD0049,Grocery_Product_49,Grocery,125.42,201.7,Local
+PRD0050,Bakery_Product_50,Bakery,121.74,159.37,Imported
+PRD0051,Grocery_Product_51,Grocery,277.8,391.72,Local
+PRD0052,Electronics_Product_52,Electronics,109.73,138.99,Local
+PRD0053,Dairy_Product_53,Dairy,185.08,225.54,Imported
+PRD0054,Beverages_Product_54,Beverages,189.79,220.04,Local
+PRD0055,Home Care_Product_55,Home Care,142.93,228.07,Local
+PRD0056,Beverages_Product_56,Beverages,269.55,347.5,Imported
+PRD0057,Bakery_Product_57,Bakery,234.89,318.69,Local
+PRD0058,Bakery_Product_58,Bakery,137.13,164.06,Local
+PRD0059,Personal Care_Product_59,Personal Care,277.93,467.28,Local
+PRD0060,Personal Care_Product_60,Personal Care,13.92,22.2,Local
+PRD0061,Personal Care_Product_61,Personal Care,153.49,274.36,Imported
+PRD0062,Personal Care_Product_62,Personal Care,80.19,111.31,Local
+PRD0063,Dairy_Product_63,Dairy,172.96,222.61,Imported
+PRD0064,Home Care_Product_64,Home Care,176.69,207.28,Local
+PRD0065,Electronics_Product_65,Electronics,210.3,315.35,Imported
+PRD0066,Home Care_Product_66,Home Care,173.15,256.12,Imported
+PRD0067,Personal Care_Product_67,Personal Care,299.18,494.46,Imported
+PRD0068,Electronics_Product_68,Electronics,274.34,398.96,Local
+PRD0069,Electronics_Product_69,Electronics,222.55,383.26,Imported
+PRD0070,Grocery_Product_70,Grocery,260.3,395.15,Local
+PRD0071,Beverages_Product_71,Beverages,247.42,406.4,Imported
+PRD0072,Dairy_Product_72,Dairy,66.51,79.3,Local
+PRD0073,Electronics_Product_73,Electronics,78.66,107.5,Local
+PRD0074,Grocery_Product_74,Grocery,48.77,72.36,Local
+PRD0075,Home Care_Product_75,Home Care,260.37,305.42,Imported
+PRD0076,Electronics_Product_76,Electronics,279.97,352.65,Local
+PRD0077,Grocery_Product_77,Grocery,210.54,258.48,Imported
+PRD0078,Bakery_Product_78,Bakery,222.91,399.32,Local
+PRD0079,Beverages_Product_79,Beverages,273.07,456.47,Imported
+PRD0080,Bakery_Product_80,Bakery,91.45,153.52,Local
+PRD0081,Dairy_Product_81,Dairy,120.51,171.46,Imported
+PRD0082,Grocery_Product_82,Grocery,254.48,417.87,Local
+PRD0083,Beverages_Product_83,Beverages,63.1,92.64,Imported
+PRD0084,Grocery_Product_84,Grocery,100.29,148.7,Imported
+PRD0085,Grocery_Product_85,Grocery,117.6,133.43,Local
+PRD0086,Home Care_Product_86,Home Care,61.58,98.92,Imported
+PRD0087,Bakery_Product_87,Bakery,93.17,151.24,Imported
+PRD0088,Bakery_Product_88,Bakery,9.3,14.65,Imported
+PRD0089,Home Care_Product_89,Home Care,134.26,173,Imported
+PRD0090,Beverages_Product_90,Beverages,265.31,392.42,Local
+PRD0091,Personal Care_Product_91,Personal Care,187.03,325.96,Local
+PRD0092,Beverages_Product_92,Beverages,119.7,141.67,Local
+PRD0093,Electronics_Product_93,Electronics,264.26,367.86,Imported
+PRD0094,Bakery_Product_94,Bakery,41.46,48.48,Imported
+PRD0095,Dairy_Product_95,Dairy,270.46,436.18,Imported
+PRD0096,Dairy_Product_96,Dairy,100.5,157.37,Imported
+PRD0097,Dairy_Product_97,Dairy,99.68,162.58,Imported
+PRD0098,Dairy_Product_98,Dairy,31.76,56.41,Imported
+PRD0099,Bakery_Product_99,Bakery,130.42,143.98,Local
+PRD0100,Bakery_Product_100,Bakery,158.08,211.24,Imported
+PRD0101,Personal Care_Product_101,Personal Care,160.22,191.14,Local
+PRD0102,Dairy_Product_102,Dairy,23.24,31.79,Imported
+PRD0103,Dairy_Product_103,Dairy,33.74,41.25,Imported
+PRD0104,Personal Care_Product_104,Personal Care,92.16,105.81,Imported
+PRD0105,Dairy_Product_105,Dairy,3.47,5.76,Local
+PRD0106,Beverages_Product_106,Beverages,159.73,277.69,Imported
+PRD0107,Grocery_Product_107,Grocery,154.74,195.49,Imported
+PRD0108,Personal Care_Product_108,Personal Care,142.05,160.42,Local
+PRD0109,Bakery_Product_109,Bakery,7.92,10.07,Local
+PRD0110,Grocery_Product_110,Grocery,264.81,346.59,Imported
+PRD0111,Beverages_Product_111,Beverages,275.06,401.28,Imported
+PRD0112,Grocery_Product_112,Grocery,53.66,88.97,Imported
+PRD0113,Home Care_Product_113,Home Care,16.46,25.15,Local
+PRD0114,Grocery_Product_114,Grocery,294.97,484.87,Imported
+PRD0115,Home Care_Product_115,Home Care,22.61,29.13,Local
+PRD0116,Electronics_Product_116,Electronics,231.51,358.05,Imported
+PRD0117,Electronics_Product_117,Electronics,146.47,247.72,Imported
+PRD0118,Beverages_Product_118,Beverages,252.53,337.29,Local
+PRD0119,Electronics_Product_119,Electronics,82.08,102.34,Imported
+PRD0120,Electronics_Product_120,Electronics,82.55,91.57,Imported
+PRD0121,Grocery_Product_121,Grocery,140.28,189.06,Imported
+PRD0122,Personal Care_Product_122,Personal Care,208.01,272.37,Local
+PRD0123,Electronics_Product_123,Electronics,97.92,151.6,Local
+PRD0124,Electronics_Product_124,Electronics,76.86,85.56,Imported
+PRD0125,Electronics_Product_125,Electronics,248.86,406.36,Local
+PRD0126,Beverages_Product_126,Beverages,198.04,277.76,Local
+PRD0127,Home Care_Product_127,Home Care,185.86,239.61,Local
+PRD0128,Personal Care_Product_128,Personal Care,71.51,83.17,Local
+PRD0129,Dairy_Product_129,Dairy,157.13,240,Local
+PRD0130,Bakery_Product_130,Bakery,58.98,77.77,Local
+PRD0131,Beverages_Product_131,Beverages,30.72,49.79,Imported
+PRD0132,Bakery_Product_132,Bakery,87.14,122.5,Imported
+PRD0133,Electronics_Product_133,Electronics,110.86,195.56,Imported
+PRD0134,Grocery_Product_134,Grocery,155.02,216.68,Imported
+PRD0135,Home Care_Product_135,Home Care,157.76,191.09,Local
+PRD0136,Electronics_Product_136,Electronics,157.55,253.14,Imported
+PRD0137,Personal Care_Product_137,Personal Care,193.13,330.57,Imported
+PRD0138,Grocery_Product_138,Grocery,172.02,208.39,Local
+PRD0139,Beverages_Product_139,Beverages,291.38,408.09,Imported
+PRD0140,Home Care_Product_140,Home Care,165.49,265.03,Imported
+PRD0141,Beverages_Product_141,Beverages,138.86,234.26,Imported
+PRD0142,Electronics_Product_142,Electronics,64.52,109.33,Imported
+PRD0143,Beverages_Product_143,Beverages,210.54,288.18,Local
+PRD0144,Personal Care_Product_144,Personal Care,177.93,277.58,Local
+PRD0145,Dairy_Product_145,Dairy,29.5,49.22,Local
+PRD0146,Bakery_Product_146,Bakery,163.18,196.58,Local
+PRD0147,Bakery_Product_147,Bakery,247.35,414.36,Imported
+PRD0148,Bakery_Product_148,Bakery,187.61,284.34,Local
+PRD0149,Bakery_Product_149,Bakery,278.5,352.27,Imported
+PRD0150,Home Care_Product_150,Home Care,45.03,70.14,Local
+PRD0151,Bakery_Product_151,Bakery,188.15,331.54,Local
+PRD0152,Beverages_Product_152,Beverages,265.4,334.3,Local
+PRD0153,Grocery_Product_153,Grocery,213.11,353.25,Imported
+PRD0154,Dairy_Product_154,Dairy,247.53,423.53,Imported
+PRD0155,Grocery_Product_155,Grocery,201.99,300.26,Imported
+PRD0156,Bakery_Product_156,Bakery,175.12,278.84,Local
+PRD0157,Home Care_Product_157,Home Care,237.74,331.53,Imported
+PRD0158,Dairy_Product_158,Dairy,62.35,91.49,Local
+PRD0159,Personal Care_Product_159,Personal Care,136.83,170.64,Local
+PRD0160,Dairy_Product_160,Dairy,175.79,232.8,Local
+PRD0161,Electronics_Product_161,Electronics,175.15,237.98,Imported
+PRD0162,Beverages_Product_162,Beverages,122.69,182.19,Imported
+PRD0163,Electronics_Product_163,Electronics,154.49,214.39,Local
+PRD0164,Personal Care_Product_164,Personal Care,48.36,53.77,Imported
+PRD0165,Bakery_Product_165,Bakery,25.62,32.45,Imported
+PRD0166,Home Care_Product_166,Home Care,34.41,40.61,Local
+PRD0167,Home Care_Product_167,Home Care,255.22,412.63,Local
+PRD0168,Beverages_Product_168,Beverages,278.66,432.74,Imported
+PRD0169,Personal Care_Product_169,Personal Care,197.39,322.47,Local
+PRD0170,Personal Care_Product_170,Personal Care,242.91,377.53,Imported
+PRD0171,Grocery_Product_171,Grocery,274.79,376.91,Local
+PRD0172,Personal Care_Product_172,Personal Care,37.29,52.89,Local
+PRD0173,Beverages_Product_173,Beverages,145.35,174.81,Local
+PRD0174,Bakery_Product_174,Bakery,166.88,287.94,Local
+PRD0175,Dairy_Product_175,Dairy,271.78,396.25,Imported
+PRD0176,Home Care_Product_176,Home Care,92.53,160.21,Local
+PRD0177,Beverages_Product_177,Beverages,214.73,242.85,Imported
+PRD0178,Dairy_Product_178,Dairy,139.15,212.89,Local
+PRD0179,Beverages_Product_179,Beverages,102.82,162.8,Local
+PRD0180,Personal Care_Product_180,Personal Care,147.08,186.1,Local
+PRD0181,Personal Care_Product_181,Personal Care,52.9,88.01,Local
+PRD0182,Grocery_Product_182,Grocery,98.23,131.45,Local
+PRD0183,Home Care_Product_183,Home Care,253.56,335.41,Local
+PRD0184,Dairy_Product_184,Dairy,39.84,46.43,Imported
+PRD0185,Electronics_Product_185,Electronics,181.84,311.68,Local
+PRD0186,Electronics_Product_186,Electronics,83.61,140.09,Imported
+PRD0187,Grocery_Product_187,Grocery,94.73,169.31,Local
+PRD0188,Grocery_Product_188,Grocery,291.61,384.33,Imported
+PRD0189,Bakery_Product_189,Bakery,285.39,444.06,Local
+PRD0190,Personal Care_Product_190,Personal Care,47.41,59.68,Imported
+PRD0191,Personal Care_Product_191,Personal Care,16.67,23.01,Imported
+PRD0192,Grocery_Product_192,Grocery,98.64,160.29,Local
+PRD0193,Home Care_Product_193,Home Care,13.17,20.38,Imported
+PRD0194,Electronics_Product_194,Electronics,135.03,153.58,Local
+PRD0195,Beverages_Product_195,Beverages,192.37,252.35,Imported
+PRD0196,Dairy_Product_196,Dairy,129.05,168.33,Imported
+PRD0197,Bakery_Product_197,Bakery,173.2,226.1,Local
+PRD0198,Personal Care_Product_198,Personal Care,232.1,373.2,Imported
+PRD0199,Dairy_Product_199,Dairy,244.69,280.53,Local
+PRD0200,Beverages_Product_200,Beverages,184.72,265.23,Imported
+PRD0201,Electronics_Product_201,Electronics,199.25,340.32,Imported
+PRD0202,Electronics_Product_202,Electronics,283.58,384.6,Local
+PRD0203,Electronics_Product_203,Electronics,273.18,428.5,Imported
+PRD0204,Beverages_Product_204,Beverages,33.13,45.57,Local
+PRD0205,Home Care_Product_205,Home Care,13.25,19.81,Local
+PRD0206,Dairy_Product_206,Dairy,168.64,294.32,Imported
+PRD0207,Home Care_Product_207,Home Care,50.78,85.06,Local
+PRD0208,Beverages_Product_208,Beverages,91.43,124.63,Imported
+PRD0209,Grocery_Product_209,Grocery,165.9,255.28,Imported
+PRD0210,Electronics_Product_210,Electronics,75.74,106.26,Imported
+PRD0211,Grocery_Product_211,Grocery,284.13,493.61,Imported
+PRD0212,Dairy_Product_212,Dairy,238.82,404.22,Imported
+PRD0213,Bakery_Product_213,Bakery,54.65,64.79,Imported
+PRD0214,Electronics_Product_214,Electronics,86.46,100.09,Imported
+PRD0215,Dairy_Product_215,Dairy,222.74,388.98,Local
+PRD0216,Bakery_Product_216,Bakery,20.97,23.11,Local
+PRD0217,Beverages_Product_217,Beverages,269.47,310.93,Local
+PRD0218,Bakery_Product_218,Bakery,170.23,195.81,Imported
+PRD0219,Grocery_Product_219,Grocery,69.92,114.27,Imported
+PRD0220,Home Care_Product_220,Home Care,144.89,230.28,Local
+PRD0221,Home Care_Product_221,Home Care,178.06,297.74,Local
+PRD0222,Home Care_Product_222,Home Care,147.08,208.09,Local
+PRD0223,Home Care_Product_223,Home Care,298.87,452.5,Local
+PRD0224,Electronics_Product_224,Electronics,122.71,192.05,Local
+PRD0225,Beverages_Product_225,Beverages,231.65,259.46,Local
+PRD0226,Bakery_Product_226,Bakery,288.6,445.62,Local
+PRD0227,Electronics_Product_227,Electronics,218.35,329.62,Local
+PRD0228,Grocery_Product_228,Grocery,168.23,207.26,Imported
+PRD0229,Bakery_Product_229,Bakery,138.98,211.23,Imported
+PRD0230,Bakery_Product_230,Bakery,125.33,221.43,Local
+PRD0231,Beverages_Product_231,Beverages,299.22,485.52,Local
+PRD0232,Dairy_Product_232,Dairy,53.82,95,Local
+PRD0233,Beverages_Product_233,Beverages,238.44,402.2,Local
+PRD0234,Home Care_Product_234,Home Care,210.29,263.73,Local
+PRD0235,Grocery_Product_235,Grocery,270.09,336.57,Imported
+PRD0236,Bakery_Product_236,Bakery,167.01,287.89,Imported
+PRD0237,Dairy_Product_237,Dairy,185.92,206.61,Imported
+PRD0238,Personal Care_Product_238,Personal Care,136.8,157.39,Local
+PRD0239,Home Care_Product_239,Home Care,92.72,154.84,Local
+PRD0240,Dairy_Product_240,Dairy,89.54,137.15,Local
+PRD0241,Beverages_Product_241,Beverages,233.51,314.15,Imported
+PRD0242,Dairy_Product_242,Dairy,255.74,443.86,Imported
+PRD0243,Dairy_Product_243,Dairy,43.75,72.9,Local
+PRD0244,Grocery_Product_244,Grocery,165.78,210.94,Local
+PRD0245,Bakery_Product_245,Bakery,67.02,100.35,Imported
+PRD0246,Home Care_Product_246,Home Care,271.57,371.23,Imported
+PRD0247,Dairy_Product_247,Dairy,175.63,212.61,Local
+PRD0248,Bakery_Product_248,Bakery,206.22,281.07,Imported
+PRD0249,Personal Care_Product_249,Personal Care,29.62,45.19,Local
+PRD0250,Beverages_Product_250,Beverages,278.33,494.9,Imported
+PRD0251,Grocery_Product_251,Grocery,291.9,472.9,Imported
+PRD0252,Dairy_Product_252,Dairy,20.94,33.62,Local
+PRD0253,Personal Care_Product_253,Personal Care,281.16,499.9,Imported
+PRD0254,Home Care_Product_254,Home Care,78.23,116.13,Imported
+PRD0255,Beverages_Product_255,Beverages,55.81,96.97,Local
+PRD0256,Electronics_Product_256,Electronics,2.24,3.2,Local
+PRD0257,Beverages_Product_257,Beverages,21.7,37.92,Imported
+PRD0258,Bakery_Product_258,Bakery,219.9,348.99,Imported
+PRD0259,Home Care_Product_259,Home Care,145.7,219.45,Local
+PRD0260,Beverages_Product_260,Beverages,108.56,128.11,Imported
+PRD0261,Electronics_Product_261,Electronics,156.08,236.11,Imported
+PRD0262,Beverages_Product_262,Beverages,20.93,35.84,Local
+PRD0263,Dairy_Product_263,Dairy,6.16,8.17,Local
+PRD0264,Bakery_Product_264,Bakery,149.67,210.26,Local
+PRD0265,Electronics_Product_265,Electronics,59.91,95.19,Imported
+PRD0266,Electronics_Product_266,Electronics,17.38,20.33,Imported
+PRD0267,Beverages_Product_267,Beverages,27.56,34.29,Local
+PRD0268,Dairy_Product_268,Dairy,29.45,33.73,Local
+PRD0269,Bakery_Product_269,Bakery,145.45,202,Local
+PRD0270,Personal Care_Product_270,Personal Care,6.41,10.63,Local
+PRD0271,Electronics_Product_271,Electronics,137.92,156.09,Imported
+PRD0272,Home Care_Product_272,Home Care,158.3,221.03,Local
+PRD0273,Dairy_Product_273,Dairy,228.77,386,Imported
+PRD0274,Home Care_Product_274,Home Care,165.28,278.74,Local
+PRD0275,Personal Care_Product_275,Personal Care,129.49,194.85,Local
+PRD0276,Beverages_Product_276,Beverages,277.5,445.4,Imported
+PRD0277,Dairy_Product_277,Dairy,55.4,89.76,Local
+PRD0278,Bakery_Product_278,Bakery,11.91,14.64,Local
+PRD0279,Beverages_Product_279,Beverages,287.76,403.5,Imported
+PRD0280,Home Care_Product_280,Home Care,208.03,277.64,Local
+PRD0281,Home Care_Product_281,Home Care,99.28,166.96,Local
+PRD0282,Dairy_Product_282,Dairy,222.79,260.02,Local
+PRD0283,Grocery_Product_283,Grocery,122.31,175.67,Local
+PRD0284,Dairy_Product_284,Dairy,24.47,32.39,Local
+PRD0285,Grocery_Product_285,Grocery,30.44,51.81,Imported
+PRD0286,Beverages_Product_286,Beverages,63.33,102.48,Local
+PRD0287,Beverages_Product_287,Beverages,42.43,50.73,Local
+PRD0288,Grocery_Product_288,Grocery,297.38,375.43,Local
+PRD0289,Beverages_Product_289,Beverages,200.12,226.74,Imported
+PRD0290,Beverages_Product_290,Beverages,197.19,230.11,Local
+PRD0291,Personal Care_Product_291,Personal Care,24.51,39.97,Imported
+PRD0292,Electronics_Product_292,Electronics,93.41,117.37,Local
+PRD0293,Beverages_Product_293,Beverages,69.89,85.41,Local
+PRD0294,Electronics_Product_294,Electronics,114.89,204.62,Local
+PRD0295,Beverages_Product_295,Beverages,74.49,113.11,Imported
+PRD0296,Personal Care_Product_296,Personal Care,258.26,406.89,Imported
+PRD0297,Beverages_Product_297,Beverages,66.54,81.84,Imported
+PRD0298,Dairy_Product_298,Dairy,232.21,303.86,Imported
+PRD0299,Bakery_Product_299,Bakery,238.33,291.07,Imported
+PRD0300,Bakery_Product_300,Bakery,59.61,72.83,Local
+PRD0301,Home Care_Product_301,Home Care,243.45,429.82,Local
+PRD0302,Bakery_Product_302,Bakery,225.61,348.72,Imported
+PRD0303,Home Care_Product_303,Home Care,271.66,454.94,Imported
+PRD0304,Home Care_Product_304,Home Care,172.71,266.99,Imported
+PRD0305,Beverages_Product_305,Beverages,187.31,314.92,Imported
+PRD0306,Bakery_Product_306,Bakery,250.78,292.03,Local
+PRD0307,Bakery_Product_307,Bakery,294.59,407.42,Imported
+PRD0308,Electronics_Product_308,Electronics,254.42,327.5,Imported
+PRD0309,Beverages_Product_309,Beverages,112.18,142.74,Local
+PRD0310,Electronics_Product_310,Electronics,275,382.67,Local
+PRD0311,Dairy_Product_311,Dairy,142.87,256.43,Local
+PRD0312,Beverages_Product_312,Beverages,122.49,184.61,Imported
+PRD0313,Beverages_Product_313,Beverages,87.99,123.98,Imported
+PRD0314,Personal Care_Product_314,Personal Care,119.35,191.41,Local
+PRD0315,Dairy_Product_315,Dairy,64.1,96.56,Imported
+PRD0316,Beverages_Product_316,Beverages,229.04,393.14,Imported
+PRD0317,Home Care_Product_317,Home Care,76.45,99.59,Imported
+PRD0318,Bakery_Product_318,Bakery,277.29,334.28,Local
+PRD0319,Dairy_Product_319,Dairy,143.5,173.59,Imported
+PRD0320,Personal Care_Product_320,Personal Care,194.17,340.54,Local
+PRD0321,Home Care_Product_321,Home Care,188.34,329.94,Imported
+PRD0322,Dairy_Product_322,Dairy,65.33,102.02,Imported
+PRD0323,Electronics_Product_323,Electronics,99.9,162.27,Local
+PRD0324,Home Care_Product_324,Home Care,174.17,241.93,Local
+PRD0325,Bakery_Product_325,Bakery,219.76,264.37,Imported
+PRD0326,Electronics_Product_326,Electronics,192.4,294.59,Local
+PRD0327,Bakery_Product_327,Bakery,30.66,52.19,Local
+PRD0328,Grocery_Product_328,Grocery,119.31,196.52,Local
+PRD0329,Home Care_Product_329,Home Care,139.65,156.47,Local
+PRD0330,Bakery_Product_330,Bakery,242.31,346.94,Imported
+PRD0331,Grocery_Product_331,Grocery,142.52,173.34,Local
+PRD0332,Grocery_Product_332,Grocery,83.61,127.88,Imported
+PRD0333,Electronics_Product_333,Electronics,271.34,302.1,Local
+PRD0334,Bakery_Product_334,Bakery,220.11,330.54,Local
+PRD0335,Beverages_Product_335,Beverages,293.81,524.55,Imported
+PRD0336,Personal Care_Product_336,Personal Care,60.54,99.15,Imported
+PRD0337,Bakery_Product_337,Bakery,56.82,88.05,Local
+PRD0338,Home Care_Product_338,Home Care,174.29,293.15,Local
+PRD0339,Bakery_Product_339,Bakery,253.05,330.88,Imported
+PRD0340,Beverages_Product_340,Beverages,275.31,339.7,Local
+PRD0341,Bakery_Product_341,Bakery,43.33,75.89,Imported
+PRD0342,Grocery_Product_342,Grocery,66.14,110.75,Imported
+PRD0343,Electronics_Product_343,Electronics,254.25,293.9,Local
+PRD0344,Beverages_Product_344,Beverages,193.33,307.74,Imported
+PRD0345,Home Care_Product_345,Home Care,89.06,126.65,Imported
+PRD0346,Bakery_Product_346,Bakery,296.89,331.89,Local
+PRD0347,Beverages_Product_347,Beverages,99.93,151.9,Local
+PRD0348,Grocery_Product_348,Grocery,286.87,337.13,Imported
+PRD0349,Personal Care_Product_349,Personal Care,232.46,260.19,Imported
+PRD0350,Personal Care_Product_350,Personal Care,216.09,323.57,Imported
+PRD0351,Home Care_Product_351,Home Care,176.36,287.99,Local
+PRD0352,Beverages_Product_352,Beverages,69.47,89.65,Imported
+PRD0353,Beverages_Product_353,Beverages,143.92,225.4,Imported
+PRD0354,Home Care_Product_354,Home Care,240.43,425.54,Imported
+PRD0355,Electronics_Product_355,Electronics,238.78,309.7,Imported
+PRD0356,Grocery_Product_356,Grocery,219.05,387.39,Imported
+PRD0357,Bakery_Product_357,Bakery,180.95,203.82,Imported
+PRD0358,Electronics_Product_358,Electronics,29.16,40.25,Imported
+PRD0359,Electronics_Product_359,Electronics,197.03,298.15,Local
+PRD0360,Personal Care_Product_360,Personal Care,9.42,15.96,Local
+PRD0361,Grocery_Product_361,Grocery,46.86,69.97,Imported
+PRD0362,Personal Care_Product_362,Personal Care,126.26,149.41,Local
+PRD0363,Home Care_Product_363,Home Care,289.52,496.04,Local
+PRD0364,Beverages_Product_364,Beverages,89.01,105.51,Local
+PRD0365,Dairy_Product_365,Dairy,151.58,245.54,Imported
+PRD0366,Dairy_Product_366,Dairy,166.95,287.44,Local
+PRD0367,Beverages_Product_367,Beverages,97.14,111.93,Local
+PRD0368,Home Care_Product_368,Home Care,144.46,258.45,Local
+PRD0369,Bakery_Product_369,Bakery,251.53,440.1,Local
+PRD0370,Beverages_Product_370,Beverages,276.39,377.97,Local
+PRD0371,Dairy_Product_371,Dairy,236.59,276.63,Local
+PRD0372,Personal Care_Product_372,Personal Care,149.66,185.92,Local
+PRD0373,Personal Care_Product_373,Personal Care,212.22,320.04,Imported
+PRD0374,Personal Care_Product_374,Personal Care,245.44,441.17,Imported
+PRD0375,Bakery_Product_375,Bakery,201.36,222.1,Local
+PRD0376,Dairy_Product_376,Dairy,29.42,35.09,Imported
+PRD0377,Personal Care_Product_377,Personal Care,190.34,251.63,Imported
+PRD0378,Home Care_Product_378,Home Care,24.37,42.66,Local
+PRD0379,Bakery_Product_379,Bakery,143.98,209.79,Imported
+PRD0380,Bakery_Product_380,Bakery,89.78,125.7,Local
+PRD0381,Beverages_Product_381,Beverages,167.12,296.6,Local
+PRD0382,Home Care_Product_382,Home Care,150.8,230.76,Local
+PRD0383,Home Care_Product_383,Home Care,295.79,350.65,Imported
+PRD0384,Beverages_Product_384,Beverages,76.35,92.1,Imported
+PRD0385,Dairy_Product_385,Dairy,263.34,303.71,Local
+PRD0386,Grocery_Product_386,Grocery,276.18,345.9,Local
+PRD0387,Bakery_Product_387,Bakery,179.85,252.39,Local
+PRD0388,Bakery_Product_388,Bakery,21.8,32.34,Imported
+PRD0389,Dairy_Product_389,Dairy,51.83,68.74,Imported
+PRD0390,Home Care_Product_390,Home Care,94.94,109.42,Local
+PRD0391,Home Care_Product_391,Home Care,110.26,158.84,Local
+PRD0392,Home Care_Product_392,Home Care,141.03,208.72,Imported
+PRD0393,Electronics_Product_393,Electronics,158.66,275.57,Imported
+PRD0394,Bakery_Product_394,Bakery,182.14,264.96,Local
+PRD0395,Grocery_Product_395,Grocery,11.13,13.07,Imported
+PRD0396,Bakery_Product_396,Bakery,136.52,239.91,Imported
+PRD0397,Beverages_Product_397,Beverages,110.95,182.49,Imported
+PRD0398,Beverages_Product_398,Beverages,255.82,314.39,Local
+PRD0399,Bakery_Product_399,Bakery,48.51,67.09,Imported
+PRD0400,Bakery_Product_400,Bakery,111.35,142.67,Local
+PRD0401,Bakery_Product_401,Bakery,8.72,9.85,Imported
+PRD0402,Personal Care_Product_402,Personal Care,299.68,522.85,Local
+PRD0403,Personal Care_Product_403,Personal Care,68.3,122.31,Imported
+PRD0404,Electronics_Product_404,Electronics,195.19,346.02,Local
+PRD0405,Dairy_Product_405,Dairy,14.08,22.39,Imported
+PRD0406,Personal Care_Product_406,Personal Care,242.79,416.11,Local
+PRD0407,Home Care_Product_407,Home Care,294.18,408.41,Local
+PRD0408,Home Care_Product_408,Home Care,83.04,147.84,Local
+PRD0409,Bakery_Product_409,Bakery,42.4,50.82,Imported
+PRD0410,Bakery_Product_410,Bakery,52.21,75.76,Local
+PRD0411,Grocery_Product_411,Grocery,106.65,176.5,Local
+PRD0412,Beverages_Product_412,Beverages,70.35,104.58,Local
+PRD0413,Beverages_Product_413,Beverages,167.71,217.81,Imported
+PRD0414,Bakery_Product_414,Bakery,99.37,120.13,Local
+PRD0415,Dairy_Product_415,Dairy,299.98,454.09,Imported
+PRD0416,Grocery_Product_416,Grocery,2.38,2.77,Imported
+PRD0417,Bakery_Product_417,Bakery,182.39,215.42,Imported
+PRD0418,Personal Care_Product_418,Personal Care,32.33,38.18,Local
+PRD0419,Dairy_Product_419,Dairy,200.77,336.94,Imported
+PRD0420,Beverages_Product_420,Beverages,96.97,159.6,Imported
+PRD0421,Beverages_Product_421,Beverages,51.09,79.2,Local
+PRD0422,Personal Care_Product_422,Personal Care,4.28,7.49,Imported
+PRD0423,Grocery_Product_423,Grocery,192.59,338.04,Imported
+PRD0424,Bakery_Product_424,Bakery,167.84,189.43,Imported
+PRD0425,Electronics_Product_425,Electronics,73.6,87.54,Local
+PRD0426,Personal Care_Product_426,Personal Care,23.69,40.9,Local
+PRD0427,Electronics_Product_427,Electronics,87.73,149.73,Imported
+PRD0428,Beverages_Product_428,Beverages,91.78,140.36,Local
+PRD0429,Personal Care_Product_429,Personal Care,229.11,374.06,Local
+PRD0430,Home Care_Product_430,Home Care,80.27,114.68,Imported
+PRD0431,Personal Care_Product_431,Personal Care,137.33,221.5,Local
+PRD0432,Electronics_Product_432,Electronics,12.85,14.9,Local
+PRD0433,Grocery_Product_433,Grocery,116.89,190.44,Imported
+PRD0434,Electronics_Product_434,Electronics,193.46,343.9,Local
+PRD0435,Bakery_Product_435,Bakery,168.38,276.34,Local
+PRD0436,Grocery_Product_436,Grocery,68.13,106.45,Imported
+PRD0437,Dairy_Product_437,Dairy,279.49,484.27,Imported
+PRD0438,Electronics_Product_438,Electronics,173.56,229.66,Imported
+PRD0439,Electronics_Product_439,Electronics,98.3,131.83,Imported
+PRD0440,Personal Care_Product_440,Personal Care,112.88,169.38,Local
+PRD0441,Electronics_Product_441,Electronics,228.35,281.01,Local
+PRD0442,Personal Care_Product_442,Personal Care,126.89,225.27,Local
+PRD0443,Home Care_Product_443,Home Care,90.82,156.73,Imported
+PRD0444,Grocery_Product_444,Grocery,114.42,184.16,Imported
+PRD0445,Dairy_Product_445,Dairy,127.27,161.43,Imported
+PRD0446,Personal Care_Product_446,Personal Care,83.46,117.75,Local
+PRD0447,Grocery_Product_447,Grocery,120.92,145.19,Imported
+PRD0448,Grocery_Product_448,Grocery,278.08,387.3,Local
+PRD0449,Dairy_Product_449,Dairy,177.15,263.3,Local
+PRD0450,Dairy_Product_450,Dairy,67.55,75.27,Imported
+PRD0451,Beverages_Product_451,Beverages,144.72,199.56,Local
+PRD0452,Home Care_Product_452,Home Care,184.64,254.51,Imported
+PRD0453,Dairy_Product_453,Dairy,139.03,234.43,Local
+PRD0454,Dairy_Product_454,Dairy,241.21,402.37,Imported
+PRD0455,Home Care_Product_455,Home Care,56.89,92.21,Imported
+PRD0456,Beverages_Product_456,Beverages,65.35,95.32,Local
+PRD0457,Dairy_Product_457,Dairy,25.84,41.26,Imported
+PRD0458,Grocery_Product_458,Grocery,216.6,290.12,Imported
+PRD0459,Electronics_Product_459,Electronics,34.19,50.4,Imported
+PRD0460,Bakery_Product_460,Bakery,85.97,152.14,Local
+PRD0461,Bakery_Product_461,Bakery,53.89,78.1,Imported
+PRD0462,Grocery_Product_462,Grocery,50.32,61.15,Imported
+PRD0463,Grocery_Product_463,Grocery,73.27,119.72,Local
+PRD0464,Home Care_Product_464,Home Care,45.03,74.59,Imported
+PRD0465,Dairy_Product_465,Dairy,56.02,70.34,Local
+PRD0466,Dairy_Product_466,Dairy,192.73,336.34,Local
+PRD0467,Electronics_Product_467,Electronics,117.29,132.8,Local
+PRD0468,Personal Care_Product_468,Personal Care,43.67,61.34,Local
+PRD0469,Home Care_Product_469,Home Care,185.94,216.33,Local
+PRD0470,Grocery_Product_470,Grocery,146.64,258.95,Local
+PRD0471,Personal Care_Product_471,Personal Care,41.04,53.82,Imported
+PRD0472,Bakery_Product_472,Bakery,163.39,267.69,Local
+PRD0473,Dairy_Product_473,Dairy,205.98,311.7,Imported
+PRD0474,Bakery_Product_474,Bakery,182.03,260.74,Local
+PRD0475,Bakery_Product_475,Bakery,67.94,80.74,Imported
+PRD0476,Personal Care_Product_476,Personal Care,11.84,14.81,Local
+PRD0477,Electronics_Product_477,Electronics,48.75,55.17,Imported
+PRD0478,Grocery_Product_478,Grocery,57.11,64.62,Local
+PRD0479,Home Care_Product_479,Home Care,176.34,207.09,Local
+PRD0480,Home Care_Product_480,Home Care,74.57,101.53,Local
+PRD0481,Bakery_Product_481,Bakery,182.05,211.06,Local
+PRD0482,Grocery_Product_482,Grocery,19.32,21.55,Imported
+PRD0483,Bakery_Product_483,Bakery,31.64,38.04,Imported
+PRD0484,Bakery_Product_484,Bakery,215.23,338.75,Imported
+PRD0485,Grocery_Product_485,Grocery,155.21,210.76,Imported
+PRD0486,Grocery_Product_486,Grocery,218.67,329.22,Local
+PRD0487,Beverages_Product_487,Beverages,2.14,3.54,Imported
+PRD0488,Home Care_Product_488,Home Care,241.53,302.4,Local
+PRD0489,Grocery_Product_489,Grocery,288.79,449.25,Imported
+PRD0490,Bakery_Product_490,Bakery,274.98,405.36,Local
+PRD0491,Dairy_Product_491,Dairy,100.79,131.3,Imported
+PRD0492,Personal Care_Product_492,Personal Care,75.03,83.21,Local
+PRD0493,Electronics_Product_493,Electronics,90.12,146.88,Local
+PRD0494,Home Care_Product_494,Home Care,185.06,321.77,Local
+PRD0495,Home Care_Product_495,Home Care,136.51,197.84,Imported
+PRD0496,Home Care_Product_496,Home Care,129.55,147.8,Local
+PRD0497,Home Care_Product_497,Home Care,142.34,245.88,Imported
+PRD0498,Grocery_Product_498,Grocery,39.26,64.73,Local
+PRD0499,Electronics_Product_499,Electronics,27.79,44.19,Imported
+PRD0500,Bakery_Product_500,Bakery,165.14,228.68,Local
+PRD0501,Personal Care_Product_501,Personal Care,216.97,247.76,Local
+PRD0502,Beverages_Product_502,Beverages,22.64,26.71,Imported
+PRD0503,Home Care_Product_503,Home Care,165.03,288.66,Local
+PRD0504,Bakery_Product_504,Bakery,189.5,271.83,Imported
+PRD0505,Beverages_Product_505,Beverages,101.92,121.78,Local
+PRD0506,Home Care_Product_506,Home Care,146.92,217.06,Local
+PRD0507,Grocery_Product_507,Grocery,260.96,356.21,Imported
+PRD0508,Home Care_Product_508,Home Care,154.76,215.09,Imported
+PRD0509,Grocery_Product_509,Grocery,26.77,45.3,Imported
+PRD0510,Beverages_Product_510,Beverages,8.43,9.44,Local
+PRD0511,Bakery_Product_511,Bakery,249.39,409.26,Local
+PRD0512,Electronics_Product_512,Electronics,226.2,338.22,Local
+PRD0513,Personal Care_Product_513,Personal Care,74.5,118.31,Local
+PRD0514,Beverages_Product_514,Beverages,79.38,106.46,Imported
+PRD0515,Bakery_Product_515,Bakery,184.56,219.4,Imported
+PRD0516,Personal Care_Product_516,Personal Care,289.4,462.9,Local
+PRD0517,Bakery_Product_517,Bakery,198.42,246.28,Imported
+PRD0518,Bakery_Product_518,Bakery,104.06,119.68,Imported
+PRD0519,Beverages_Product_519,Beverages,275.97,330.51,Local
+PRD0520,Grocery_Product_520,Grocery,234.13,366.91,Local
+PRD0521,Personal Care_Product_521,Personal Care,117.57,158.39,Imported
+PRD0522,Bakery_Product_522,Bakery,89.27,125.13,Local
+PRD0523,Personal Care_Product_523,Personal Care,266.47,304.98,Local
+PRD0524,Bakery_Product_524,Bakery,56.56,73.29,Imported
+PRD0525,Beverages_Product_525,Beverages,288.75,501.48,Imported
+PRD0526,Personal Care_Product_526,Personal Care,110.9,152.44,Imported
+PRD0527,Electronics_Product_527,Electronics,141.84,196.8,Imported
+PRD0528,Electronics_Product_528,Electronics,89.46,125.07,Local
+PRD0529,Dairy_Product_529,Dairy,244.62,368.01,Imported
+PRD0530,Personal Care_Product_530,Personal Care,37.85,49.76,Local
+PRD0531,Dairy_Product_531,Dairy,3.73,5.18,Local
+PRD0532,Electronics_Product_532,Electronics,126.8,173.48,Imported
+PRD0533,Personal Care_Product_533,Personal Care,34.74,58.12,Local
+PRD0534,Personal Care_Product_534,Personal Care,127.67,151.73,Imported
+PRD0535,Bakery_Product_535,Bakery,213.87,262.1,Local
+PRD0536,Home Care_Product_536,Home Care,97.23,108.44,Imported
+PRD0537,Electronics_Product_537,Electronics,233.73,299.22,Imported
+PRD0538,Personal Care_Product_538,Personal Care,43.27,51.56,Local
+PRD0539,Dairy_Product_539,Dairy,132.25,217.92,Imported
+PRD0540,Grocery_Product_540,Grocery,57.44,94.84,Imported
+PRD0541,Bakery_Product_541,Bakery,139.52,249.57,Local
+PRD0542,Dairy_Product_542,Dairy,273.39,486.83,Imported
+PRD0543,Personal Care_Product_543,Personal Care,263.41,358.63,Imported
+PRD0544,Home Care_Product_544,Home Care,197.32,280.44,Local
+PRD0545,Beverages_Product_545,Beverages,195.62,287.72,Local
+PRD0546,Dairy_Product_546,Dairy,136.93,215.86,Local
+PRD0547,Personal Care_Product_547,Personal Care,74.42,105.03,Local
+PRD0548,Home Care_Product_548,Home Care,18.72,28.03,Imported
+PRD0549,Dairy_Product_549,Dairy,21.08,36.8,Imported
+PRD0550,Bakery_Product_550,Bakery,230.25,325.04,Imported
+PRD0551,Beverages_Product_551,Beverages,123.28,154.57,Local
+PRD0552,Personal Care_Product_552,Personal Care,259.14,462.74,Imported
+PRD0553,Beverages_Product_553,Beverages,3.29,3.77,Local
+PRD0554,Personal Care_Product_554,Personal Care,247.98,277.48,Local
+PRD0555,Home Care_Product_555,Home Care,203.41,265.35,Imported
+PRD0556,Beverages_Product_556,Beverages,117.53,150.11,Local
+PRD0557,Beverages_Product_557,Beverages,297.87,371.97,Imported
+PRD0558,Home Care_Product_558,Home Care,173.72,193.88,Local
+PRD0559,Home Care_Product_559,Home Care,163,225.56,Local
+PRD0560,Home Care_Product_560,Home Care,63.64,70.39,Imported
+PRD0561,Home Care_Product_561,Home Care,203.8,310.72,Imported
+PRD0562,Bakery_Product_562,Bakery,263.26,400.04,Local
+PRD0563,Electronics_Product_563,Electronics,295.64,515.02,Imported
+PRD0564,Electronics_Product_564,Electronics,215.13,244.47,Local
+PRD0565,Beverages_Product_565,Beverages,79.94,108.62,Local
+PRD0566,Electronics_Product_566,Electronics,279.3,380.39,Local
+PRD0567,Grocery_Product_567,Grocery,34.27,45.66,Imported
+PRD0568,Grocery_Product_568,Grocery,143.61,237.09,Local
+PRD0569,Electronics_Product_569,Electronics,263.58,329.93,Local
+PRD0570,Dairy_Product_570,Dairy,78.07,89.6,Imported
+PRD0571,Grocery_Product_571,Grocery,83.04,95.06,Imported
+PRD0572,Bakery_Product_572,Bakery,268.3,358.97,Local
+PRD0573,Personal Care_Product_573,Personal Care,100.39,147.14,Local
+PRD0574,Dairy_Product_574,Dairy,155.49,194.68,Imported
+PRD0575,Bakery_Product_575,Bakery,97.28,141.44,Local
+PRD0576,Grocery_Product_576,Grocery,188.09,208.48,Imported
+PRD0577,Electronics_Product_577,Electronics,279.56,382.16,Imported
+PRD0578,Grocery_Product_578,Grocery,147.14,245.86,Imported
+PRD0579,Grocery_Product_579,Grocery,29.18,51.04,Local
+PRD0580,Beverages_Product_580,Beverages,266.8,441.08,Local
+PRD0581,Bakery_Product_581,Bakery,269.44,395.8,Local
+PRD0582,Bakery_Product_582,Bakery,211.11,296.64,Local
+PRD0583,Dairy_Product_583,Dairy,155.76,213.78,Imported
+PRD0584,Grocery_Product_584,Grocery,27.39,41.08,Imported
+PRD0585,Bakery_Product_585,Bakery,108.16,174.69,Local
+PRD0586,Home Care_Product_586,Home Care,61.36,85.27,Imported
+PRD0587,Personal Care_Product_587,Personal Care,14.42,19.1,Local
+PRD0588,Dairy_Product_588,Dairy,290.95,429.27,Imported
+PRD0589,Beverages_Product_589,Beverages,78.16,121.19,Local
+PRD0590,Electronics_Product_590,Electronics,105.64,140.4,Local
+PRD0591,Electronics_Product_591,Electronics,112.15,152,Local
+PRD0592,Beverages_Product_592,Beverages,174.39,264.25,Local
+PRD0593,Dairy_Product_593,Dairy,49.45,68.25,Local
+PRD0594,Grocery_Product_594,Grocery,141.5,232.59,Imported
+PRD0595,Dairy_Product_595,Dairy,168.75,193.48,Imported
+PRD0596,Electronics_Product_596,Electronics,244.69,428.29,Imported
+PRD0597,Electronics_Product_597,Electronics,146.49,250.25,Local
+PRD0598,Personal Care_Product_598,Personal Care,262.74,326.24,Local
+PRD0599,Personal Care_Product_599,Personal Care,155.6,193.44,Imported
+PRD0600,Beverages_Product_600,Beverages,144.74,198.15,Local
+PRD0601,Dairy_Product_601,Dairy,96.36,149.03,Local
+PRD0602,Beverages_Product_602,Beverages,97.34,166.68,Imported
+PRD0603,Dairy_Product_603,Dairy,129.09,229.5,Local
+PRD0604,Personal Care_Product_604,Personal Care,164.22,274.7,Local
+PRD0605,Electronics_Product_605,Electronics,275,480.34,Local
+PRD0606,Home Care_Product_606,Home Care,253.03,391.5,Local
+PRD0607,Electronics_Product_607,Electronics,259.78,439.35,Imported
+PRD0608,Personal Care_Product_608,Personal Care,143.58,203.76,Local
+PRD0609,Grocery_Product_609,Grocery,263.89,382.87,Local
+PRD0610,Dairy_Product_610,Dairy,40.22,64.86,Imported
+PRD0611,Beverages_Product_611,Beverages,2.33,3.55,Local
+PRD0612,Bakery_Product_612,Bakery,272.41,327.57,Local
+PRD0613,Personal Care_Product_613,Personal Care,44.18,75.12,Local
+PRD0614,Beverages_Product_614,Beverages,89.97,117.25,Local
+PRD0615,Home Care_Product_615,Home Care,289.36,388.95,Imported
+PRD0616,Personal Care_Product_616,Personal Care,246.85,385.96,Imported
+PRD0617,Grocery_Product_617,Grocery,227.7,383.44,Imported
+PRD0618,Grocery_Product_618,Grocery,204,307.59,Imported
+PRD0619,Grocery_Product_619,Grocery,114.11,182.22,Imported
+PRD0620,Dairy_Product_620,Dairy,232.02,320.62,Imported
+PRD0621,Bakery_Product_621,Bakery,90.21,137.58,Imported
+PRD0622,Electronics_Product_622,Electronics,256.7,317.37,Imported
+PRD0623,Grocery_Product_623,Grocery,7.2,11.52,Local
+PRD0624,Beverages_Product_624,Beverages,280.98,474.22,Local
+PRD0625,Home Care_Product_625,Home Care,115.2,184.19,Local
+PRD0626,Personal Care_Product_626,Personal Care,138.75,172.08,Local
+PRD0627,Beverages_Product_627,Beverages,251.66,378.9,Imported
+PRD0628,Beverages_Product_628,Beverages,295.25,470.15,Imported
+PRD0629,Grocery_Product_629,Grocery,109.83,142.69,Local
+PRD0630,Bakery_Product_630,Bakery,16.92,19.96,Imported
+PRD0631,Personal Care_Product_631,Personal Care,192.88,227.6,Imported
+PRD0632,Grocery_Product_632,Grocery,224.08,261.57,Local
+PRD0633,Bakery_Product_633,Bakery,213.23,370.31,Imported
+PRD0634,Grocery_Product_634,Grocery,11.16,12.53,Imported
+PRD0635,Dairy_Product_635,Dairy,169.04,270.88,Imported
+PRD0636,Personal Care_Product_636,Personal Care,141.68,189.2,Imported
+PRD0637,Personal Care_Product_637,Personal Care,167.78,284.84,Local
+PRD0638,Dairy_Product_638,Dairy,88.13,127.81,Local
+PRD0639,Dairy_Product_639,Dairy,148.61,172.76,Local
+PRD0640,Grocery_Product_640,Grocery,86.54,119.6,Local
+PRD0641,Personal Care_Product_641,Personal Care,77.14,97.95,Imported
+PRD0642,Home Care_Product_642,Home Care,117.43,152.49,Local
+PRD0643,Personal Care_Product_643,Personal Care,48.42,82.97,Local
+PRD0644,Bakery_Product_644,Bakery,208.42,348.5,Imported
+PRD0645,Bakery_Product_645,Bakery,110.73,182.16,Local
+PRD0646,Dairy_Product_646,Dairy,119.07,158.74,Local
+PRD0647,Home Care_Product_647,Home Care,150.42,179,Local
+PRD0648,Grocery_Product_648,Grocery,243.63,385.53,Local
+PRD0649,Grocery_Product_649,Grocery,164.74,257.79,Local
+PRD0650,Dairy_Product_650,Dairy,200.63,273.64,Local
+PRD0651,Dairy_Product_651,Dairy,27.63,30.86,Imported
+PRD0652,Dairy_Product_652,Dairy,64.12,76.96,Local
+PRD0653,Bakery_Product_653,Bakery,286.4,355.72,Local
+PRD0654,Home Care_Product_654,Home Care,209.43,259.42,Local
+PRD0655,Dairy_Product_655,Dairy,269.78,456.34,Local
+PRD0656,Bakery_Product_656,Bakery,180.29,294.56,Local
+PRD0657,Personal Care_Product_657,Personal Care,5.83,10.11,Local
+PRD0658,Home Care_Product_658,Home Care,13.24,15.05,Local
+PRD0659,Grocery_Product_659,Grocery,166.81,244.33,Local
+PRD0660,Personal Care_Product_660,Personal Care,282.27,479.16,Local
+PRD0661,Beverages_Product_661,Beverages,158.96,284.17,Local
+PRD0662,Dairy_Product_662,Dairy,210.31,272.37,Imported
+PRD0663,Electronics_Product_663,Electronics,264.47,402.02,Local
+PRD0664,Electronics_Product_664,Electronics,205.52,315.5,Local
+PRD0665,Grocery_Product_665,Grocery,277.19,441.95,Imported
+PRD0666,Bakery_Product_666,Bakery,128.56,163.23,Imported
+PRD0667,Bakery_Product_667,Bakery,52.78,91.91,Local
+PRD0668,Electronics_Product_668,Electronics,237.08,274.45,Local
+PRD0669,Home Care_Product_669,Home Care,191.29,280.04,Imported
+PRD0670,Personal Care_Product_670,Personal Care,295.27,482.09,Imported
+PRD0671,Personal Care_Product_671,Personal Care,138.74,220.34,Imported
+PRD0672,Personal Care_Product_672,Personal Care,138.48,152.69,Imported
+PRD0673,Home Care_Product_673,Home Care,67.65,121.46,Local
+PRD0674,Grocery_Product_674,Grocery,293.88,463.34,Local
+PRD0675,Home Care_Product_675,Home Care,234.37,297.92,Imported
+PRD0676,Bakery_Product_676,Bakery,279.1,425.14,Imported
+PRD0677,Beverages_Product_677,Beverages,30.21,45.59,Local
+PRD0678,Home Care_Product_678,Home Care,93.91,147.17,Local
+PRD0679,Bakery_Product_679,Bakery,299.61,483.39,Imported
+PRD0680,Home Care_Product_680,Home Care,10.58,17.03,Imported
+PRD0681,Personal Care_Product_681,Personal Care,146.77,210.65,Local
+PRD0682,Electronics_Product_682,Electronics,149.58,206.22,Local
+PRD0683,Home Care_Product_683,Home Care,160.17,267.06,Local
+PRD0684,Bakery_Product_684,Bakery,278.2,390.23,Imported
+PRD0685,Grocery_Product_685,Grocery,28.16,43.88,Local
+PRD0686,Bakery_Product_686,Bakery,277.45,338.58,Local
+PRD0687,Beverages_Product_687,Beverages,128.68,180.73,Local
+PRD0688,Electronics_Product_688,Electronics,210.37,260.08,Imported
+PRD0689,Grocery_Product_689,Grocery,284.98,510.87,Imported
+PRD0690,Beverages_Product_690,Beverages,57.8,100.67,Local
+PRD0691,Bakery_Product_691,Bakery,88.85,134.04,Imported
+PRD0692,Electronics_Product_692,Electronics,161.57,193.06,Imported
+PRD0693,Electronics_Product_693,Electronics,144.03,205.3,Imported
+PRD0694,Dairy_Product_694,Dairy,292.41,492.76,Imported
+PRD0695,Dairy_Product_695,Dairy,9.43,15.91,Imported
+PRD0696,Home Care_Product_696,Home Care,160.6,212.31,Local
+PRD0697,Home Care_Product_697,Home Care,282.47,368.24,Imported
+PRD0698,Grocery_Product_698,Grocery,267.8,440.93,Imported
+PRD0699,Bakery_Product_699,Bakery,166.33,204.91,Local
+PRD0700,Personal Care_Product_700,Personal Care,43.44,76.89,Imported
+PRD0701,Personal Care_Product_701,Personal Care,120.15,199.57,Imported
+PRD0702,Grocery_Product_702,Grocery,195.19,329.69,Imported
+PRD0703,Electronics_Product_703,Electronics,129.7,147.76,Imported
+PRD0704,Personal Care_Product_704,Personal Care,14.99,24.03,Local
+PRD0705,Dairy_Product_705,Dairy,82.39,131.23,Local
+PRD0706,Electronics_Product_706,Electronics,284.47,424.66,Imported
+PRD0707,Dairy_Product_707,Dairy,192.56,345.59,Local
+PRD0708,Home Care_Product_708,Home Care,6.96,8.34,Local
+PRD0709,Grocery_Product_709,Grocery,38.8,62.54,Local
+PRD0710,Dairy_Product_710,Dairy,190.82,218.43,Imported
+PRD0711,Personal Care_Product_711,Personal Care,188.42,272.34,Local
+PRD0712,Electronics_Product_712,Electronics,226.76,253.08,Imported
+PRD0713,Beverages_Product_713,Beverages,298.65,362.39,Local
+PRD0714,Bakery_Product_714,Bakery,182.21,305.13,Local
+PRD0715,Bakery_Product_715,Bakery,52.11,58.85,Imported
+PRD0716,Home Care_Product_716,Home Care,60.28,105.99,Imported
+PRD0717,Personal Care_Product_717,Personal Care,53.48,73.24,Imported
+PRD0718,Beverages_Product_718,Beverages,79.35,131.99,Imported
+PRD0719,Dairy_Product_719,Dairy,73.29,129.11,Imported
+PRD0720,Grocery_Product_720,Grocery,209.79,278.74,Local
+PRD0721,Personal Care_Product_721,Personal Care,193.32,250.15,Imported
+PRD0722,Home Care_Product_722,Home Care,288.39,391.41,Imported
+PRD0723,Home Care_Product_723,Home Care,233.54,337.99,Local
+PRD0724,Home Care_Product_724,Home Care,115.37,199.85,Local
+PRD0725,Dairy_Product_725,Dairy,194.49,248.4,Imported
+PRD0726,Beverages_Product_726,Beverages,77.81,125.06,Imported
+PRD0727,Bakery_Product_727,Bakery,197.28,340.79,Imported
+PRD0728,Dairy_Product_728,Dairy,278.39,406.42,Imported
+PRD0729,Electronics_Product_729,Electronics,61.09,79.89,Local
+PRD0730,Home Care_Product_730,Home Care,282.05,379.98,Imported
+PRD0731,Home Care_Product_731,Home Care,49.69,69.15,Imported
+PRD0732,Beverages_Product_732,Beverages,131.38,180.54,Imported
+PRD0733,Electronics_Product_733,Electronics,95.33,115.16,Imported
+PRD0734,Bakery_Product_734,Bakery,110.75,158.34,Imported
+PRD0735,Beverages_Product_735,Beverages,49.4,84.9,Imported
+PRD0736,Personal Care_Product_736,Personal Care,241.65,360.69,Imported
+PRD0737,Dairy_Product_737,Dairy,74.67,133.12,Imported
+PRD0738,Electronics_Product_738,Electronics,207.77,354.57,Local
+PRD0739,Dairy_Product_739,Dairy,9.09,14.61,Imported
+PRD0740,Dairy_Product_740,Dairy,240.31,325.1,Local
+PRD0741,Electronics_Product_741,Electronics,54.11,69.72,Imported
+PRD0742,Beverages_Product_742,Beverages,220.38,243.68,Imported
+PRD0743,Beverages_Product_743,Beverages,85.55,149.07,Local
+PRD0744,Electronics_Product_744,Electronics,15.61,22.28,Local
+PRD0745,Home Care_Product_745,Home Care,148.03,177.53,Imported
+PRD0746,Dairy_Product_746,Dairy,191.21,333.75,Local
+PRD0747,Beverages_Product_747,Beverages,169.54,189.89,Imported
+PRD0748,Beverages_Product_748,Beverages,101.85,182.82,Local
+PRD0749,Dairy_Product_749,Dairy,13.46,16.06,Local
+PRD0750,Dairy_Product_750,Dairy,297.75,332.35,Local
+PRD0751,Electronics_Product_751,Electronics,30.08,37.5,Local
+PRD0752,Grocery_Product_752,Grocery,43.5,61.98,Imported
+PRD0753,Personal Care_Product_753,Personal Care,205.77,323.19,Local
+PRD0754,Personal Care_Product_754,Personal Care,68.69,99.19,Imported
+PRD0755,Beverages_Product_755,Beverages,25.44,40.83,Local
+PRD0756,Grocery_Product_756,Grocery,44.39,69.24,Local
+PRD0757,Dairy_Product_757,Dairy,298.14,362.78,Imported
+PRD0758,Beverages_Product_758,Beverages,265.71,444.26,Local
+PRD0759,Electronics_Product_759,Electronics,131.37,206.64,Local
+PRD0760,Personal Care_Product_760,Personal Care,201.02,236.74,Local
+PRD0761,Electronics_Product_761,Electronics,110.32,138.61,Local
+PRD0762,Electronics_Product_762,Electronics,215.04,289.24,Imported
+PRD0763,Dairy_Product_763,Dairy,286.46,367.15,Imported
+PRD0764,Grocery_Product_764,Grocery,239.86,402.16,Local
+PRD0765,Electronics_Product_765,Electronics,71.18,82.97,Imported
+PRD0766,Home Care_Product_766,Home Care,270.76,355.54,Imported
+PRD0767,Dairy_Product_767,Dairy,227.23,284.93,Imported
+PRD0768,Home Care_Product_768,Home Care,11.31,18.5,Local
+PRD0769,Bakery_Product_769,Bakery,57.57,97.39,Imported
+PRD0770,Bakery_Product_770,Bakery,61.54,86.75,Imported
+PRD0771,Grocery_Product_771,Grocery,299.31,358.66,Local
+PRD0772,Home Care_Product_772,Home Care,96.6,138.42,Imported
+PRD0773,Home Care_Product_773,Home Care,217.13,371,Local
+PRD0774,Personal Care_Product_774,Personal Care,128.77,221.24,Local
+PRD0775,Personal Care_Product_775,Personal Care,128.45,187.48,Local
+PRD0776,Electronics_Product_776,Electronics,292.76,456.27,Imported
+PRD0777,Beverages_Product_777,Beverages,6.21,9.53,Local
+PRD0778,Bakery_Product_778,Bakery,172.16,199.48,Imported
+PRD0779,Beverages_Product_779,Beverages,8.01,13.54,Imported
+PRD0780,Grocery_Product_780,Grocery,131.88,190.68,Local
+PRD0781,Dairy_Product_781,Dairy,102,163.06,Local
+PRD0782,Personal Care_Product_782,Personal Care,39.26,61.8,Imported
+PRD0783,Bakery_Product_783,Bakery,69.81,116.07,Local
+PRD0784,Personal Care_Product_784,Personal Care,66.16,108.98,Local
+PRD0785,Dairy_Product_785,Dairy,151.62,257.02,Local
+PRD0786,Home Care_Product_786,Home Care,88.94,107.31,Local
+PRD0787,Dairy_Product_787,Dairy,183.13,232.5,Imported
+PRD0788,Dairy_Product_788,Dairy,15.77,24.85,Local
+PRD0789,Personal Care_Product_789,Personal Care,217.26,255.27,Imported
+PRD0790,Beverages_Product_790,Beverages,142.47,233.22,Imported
+PRD0791,Bakery_Product_791,Bakery,141.03,215,Local
+PRD0792,Grocery_Product_792,Grocery,216.06,281.95,Local
+PRD0793,Home Care_Product_793,Home Care,87,111.46,Local
+PRD0794,Electronics_Product_794,Electronics,255.55,317.44,Imported
+PRD0795,Beverages_Product_795,Beverages,131.89,201.86,Local
+PRD0796,Personal Care_Product_796,Personal Care,27.2,30.65,Local
+PRD0797,Home Care_Product_797,Home Care,294.43,423.59,Local
+PRD0798,Home Care_Product_798,Home Care,193.47,256.25,Imported
+PRD0799,Beverages_Product_799,Beverages,205.63,242.7,Imported
+PRD0800,Electronics_Product_800,Electronics,39.7,68.77,Imported
