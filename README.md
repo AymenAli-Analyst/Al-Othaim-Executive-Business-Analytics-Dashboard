@@ -11,7 +11,8 @@ The dashboard helps decision-makers monitor sales, profitability, customer behav
 
 ### 📈 Executive Dashboard
 
-![Executive Dashboard]([PUT_IMAGE_LINK_HERE](https://github.com/AymenAli-Analyst/Al-Othaim-Executive-Business-Analytics-Dashboard/blob/main/Screenshot%202026-06-23%20140852.png?raw=true))
+![Executive Dashboard]([<img width="1124" height="644" alt="image" src="https://github.com/user-attachments/assets/a52990cd-af46-4701-b6ef-91bce34abbef" />)
+
 
 ### ⚙️ Operational Dashboard
 
