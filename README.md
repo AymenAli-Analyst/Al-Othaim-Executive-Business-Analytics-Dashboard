@@ -16,7 +16,8 @@ The dashboard helps decision-makers monitor sales, profitability, customer behav
 
 ### ⚙️ Operational Dashboard
 
-![Operational Dashboard](PUT_IMAGE_LINK_HERE)
+![Operational Dashboard](<img width="1124" height="645" alt="image" src="https://github.com/user-attachments/assets/824f2c31-a114-459a-a549-491143c7e772" />
+)
 
 ---
 
